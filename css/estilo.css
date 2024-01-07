@@ -1,0 +1,54 @@
+h1 {
+    color: rgb(220, 129, 48);
+}
+
+.logoLufe {
+    width: 180px;
+    cursor: pointer;
+    display: flex;
+    justify-content: left;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 0px;
+    color: #e08514;
+}
+
+
+.nav-link {
+    color: #e08514;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 50px;
+
+}
+
+.navbar-toggler-icon {
+    background-color: #e08514;
+    border-style: dashed;
+
+}
+
+.logoWhatsapp {
+    width: 80px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+}
+
+.entrenaConNosotros {
+    position: fixed;
+    bottom: 20px;
+    right: 130px;
+    cursor: pointer;
+    text-transform: uppercase;
+    background-color: #58CF45;
+    padding: 9px 25px;
+    border-radius: 40px;
+}
