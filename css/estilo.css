@@ -29,8 +29,8 @@ header {
 }
 
 .navbar-toggler-icon {
+    color: black;
     background-color: #e08514;
-    border-style: dashed;
 
 }
 
