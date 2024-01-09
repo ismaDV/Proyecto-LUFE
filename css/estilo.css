@@ -10,16 +10,19 @@ h1 {
 }
 
 header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
     border-top: 0px;
     color: #e08514;
     position: relative;
-
     top: 0px;
 }
 
+.container-fluid {
+    padding: 0px;
+}
+
+.navbar {
+    padding: 0px;
+}
 
 .nav-link {
     color: #e08514;
